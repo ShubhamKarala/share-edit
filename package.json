@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "browserify src/app.js -o public/js/app.js -d",
-    "start": "http-server -c-1 -p 12345 public"
+    "start": "http-server -a 0.0.0.0 -p 12345 public"
   },
   "author": "Pedro Teixeira <i@pgte.me>",
   "license": "MIT",
