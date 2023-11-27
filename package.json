@@ -11,8 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "browserify": "^14.4.0",
-    "http-server": "^0.10.0",
-    "ipfs": "^0.25.2",
+    "http-server": "^0.12.2",
+    "ipfs": "^0.41.0",
     "y-array": "^10.1.4",
     "y-ipfs-connector": "^1.2.1",
     "y-memory": "^8.0.9",
